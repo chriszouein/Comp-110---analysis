@@ -14,11 +14,4 @@ This project analyzes how course difficulty, pace, and understanding relate to s
 ---
 
 ## About Me
-I am Chris Zouein, an international student from Lebanon with a French educational background. I am currently majoring in Economics with a minor in Mathematics at UNC Chapel Hill.
-
----
-
-## COMP110 Projects
-
-### Analysis Project
-[View my analysis project](./analysis.html)
+I am Chris Zouein, an international student from Lebanon with a French educational background. I am currently majoring in Economics with minors in Mathematics and Data Science at UNC Chapel Hill.

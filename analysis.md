@@ -2,7 +2,6 @@
 layout: default
 title: Analysis
 ---
-
 <style>
 body {
   background-color: #f7f9fc;

@@ -9,7 +9,7 @@ title: COMP110 Analysis Project
 This project analyzes how course difficulty, pace, and understanding relate to student interest in pre-lecture videos.
 
 ## View My Work
-[Full Analysis](./analysis.md)
+[Full Analysis](./analysis.html)
 
 ---
 

@@ -2,10 +2,11 @@
 layout: default
 title: Analysis
 ---
+
 <style>
 body {
-  background-color: #f7f9fc;
-  color: #1f2937;
+  background-color: #ffffff;
+  color: #111827;
   font-family: Arial, sans-serif;
 }
 
@@ -17,36 +18,22 @@ main, .container, .markdown-body {
 
 h1 {
   color: #1d4ed8;
-  border-bottom: 3px solid #1d4ed8;
+  border-bottom: 2px solid #e5e7eb;
   padding-bottom: 10px;
 }
 
 h2 {
-  color: #111827;
-  margin-top: 35px;
+  margin-top: 40px;
 }
 
-h3 {
-  color: #374151;
-}
-
-a {
-  color: #2563eb;
-  font-weight: bold;
+p {
+  line-height: 1.6;
 }
 
 img {
   max-width: 700px;
   width: 100%;
-  border-radius: 10px;
-  margin: 15px 0 30px 0;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-hr {
-  border: none;
-  border-top: 2px solid #e5e7eb;
-  margin: 30px 0;
+  margin: 20px 0;
 }
 </style>
 
@@ -57,10 +44,10 @@ hr {
 We analyze whether students who find the course difficult, fast-paced, or hard to understand are more likely to want pre-lecture videos.
 
 We load the survey data and focus on the following variables:
-- pre-lecture videos  
-- difficulty  
-- pace  
-- understanding  
+- pre-lecture videos
+- difficulty
+- pace
+- understanding
 
 ---
 

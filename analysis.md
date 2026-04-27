@@ -3,6 +3,8 @@ layout: default
 title: Analysis
 ---
 
+This analysis explores how students’ perceptions of course difficulty, pace, and understanding influence their interest in pre-lecture videos.
+
 <style>
 body {
   background-color: #ffffff;
@@ -37,9 +39,9 @@ img {
 }
 </style>
 
-# Analysis
+# Data Analysis: Student Interest in Pre-Lecture Videos
 
-## Step 1: Select Relevant Columns
+## Step 1: Data Selection
 
 We analyze whether students who find the course difficult, fast-paced, or hard to understand are more likely to want pre-lecture videos.
 
@@ -51,7 +53,7 @@ We load the survey data and focus on the following variables:
 
 ---
 
-## Step 2: Counting Response Frequencies
+## Step 2: Data Exploration
 
 We compute the frequency of responses for each variable to understand how student answers are distributed.
 
@@ -59,7 +61,7 @@ This helps identify patterns before deeper analysis.
 
 ---
 
-## Step 3: Difficulty vs Interest
+## Step 3: Impact of Difficulty
 
 We analyze how perceived difficulty relates to interest in pre-lecture videos.
 
@@ -69,7 +71,7 @@ Students who report higher difficulty tend to show more interest in pre-lecture 
 
 ---
 
-## Step 4: Pace vs Interest
+## Step 4: Impact of Course Pace
 
 We examine how course pace influences interest in pre-lecture videos.
 
@@ -79,7 +81,7 @@ Students who perceive the course as faster-paced tend to have higher demand for 
 
 ---
 
-## Step 5: Understanding vs Interest
+## Step 5: Impact of Understanding
 
 We investigate the relationship between understanding and interest in pre-lecture videos.
 

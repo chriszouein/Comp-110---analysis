@@ -1,3 +1,8 @@
+---
+layout: default
+title: COMP110 Analysis Project
+---
+
 <style>
 body {
   background-color: #f7f9fc;
@@ -45,10 +50,6 @@ hr {
   margin: 30px 0;
 }
 </style>
----
-layout: default
-title: COMP110 Analysis Project
----
 
 # COMP110 Analysis Project
 

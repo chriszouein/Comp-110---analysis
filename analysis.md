@@ -1,3 +1,7 @@
+---
+layout: default
+title: Analysis
+---
 
 <style>
 body {
@@ -45,10 +49,7 @@ hr {
   border-top: 2px solid #e5e7eb;
   margin: 30px 0;
 }
-</style>---
-layout: default
-title: Analysis
----
+</style>
 
 # Analysis
 
@@ -57,10 +58,10 @@ title: Analysis
 We analyze whether students who find the course difficult, fast-paced, or hard to understand are more likely to want pre-lecture videos.
 
 We load the survey data and focus on the following variables:
-- pre-lecture videos
-- difficulty
-- pace
-- understanding
+- pre-lecture videos  
+- difficulty  
+- pace  
+- understanding  
 
 ---
 

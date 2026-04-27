@@ -91,6 +91,10 @@ Students with lower levels of understanding show higher interest in pre-lecture 
 
 ## Conclusion
 
-Overall, students who perceive the course as more difficult, fast-paced, or harder to understand are more likely to want pre-lecture videos.
+Overall, the analysis shows a clear pattern: students who perceive the course as more difficult, fast-paced, or harder to understand are more likely to express interest in pre-lecture videos. This relationship is consistent across all three factors, suggesting that perceived challenge plays a significant role in shaping students’ demand for additional learning resources.
 
-Pre-lecture videos can help students better prepare and improve their understanding, especially for those who need additional support.
+At the same time, interest in pre-lecture videos is not limited only to struggling students. Even those with moderate levels of difficulty, pace, or understanding still show noticeable engagement with these resources. This indicates that pre-lecture videos can benefit a wide range of students, not just those at the lower end of performance.
+
+Pre-lecture videos can help students better prepare before class, reinforce key concepts, and keep up with the course pace. They may also reduce confusion during lectures by providing foundational explanations in advance. As a result, integrating pre-lecture materials could improve overall comprehension and create a more supportive learning environment.
+
+In conclusion, incorporating pre-lecture videos appears to be an effective strategy to enhance student learning, particularly in courses that are perceived as challenging or fast-paced.

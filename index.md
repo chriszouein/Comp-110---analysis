@@ -2,8 +2,9 @@
 layout: default
 title: COMP110 Analysis Project
 ---
-
 # COMP110 Analysis Project
+
+A data-driven exploration of how student perceptions influence demand for pre-lecture videos.
 
 ## Overview
 This project analyzes how course difficulty, pace, and understanding relate to student interest in pre-lecture videos.

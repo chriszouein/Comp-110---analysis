@@ -57,7 +57,7 @@ hr {
 This project analyzes how course difficulty, pace, and understanding relate to student interest in pre-lecture videos.
 
 ## View My Work
-[Full Analysis](./analysis.html?v=9999)
+[Full Analysis](./analysis)
 
 ---
 
